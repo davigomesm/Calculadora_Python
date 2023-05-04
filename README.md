@@ -1,2 +1,2 @@
-# Calculadora_Python
- 
+# Calculator
+🎰 Basic calculator made in python
